@@ -6,3 +6,7 @@
 ## Getting Started
 
 ## Deployment
+
+## Developing
+#### TODO: collect addresses from test nets, not just main net
+#### TODO: for some sc, try to get all their tx records. (currently the number is limited by 10000)
